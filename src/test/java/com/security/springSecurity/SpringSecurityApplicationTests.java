@@ -1,5 +1,6 @@
 package com.security.springSecurity;
 
+import com.security.springSecurity.entity.User;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

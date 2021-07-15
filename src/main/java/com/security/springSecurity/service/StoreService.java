@@ -1,8 +1,9 @@
-package com.security.springSecurity;
+package com.security.springSecurity.service;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import com.security.springSecurity.entity.Product;
 import org.springframework.stereotype.Service;
 
 @Service

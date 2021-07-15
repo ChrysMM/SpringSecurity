@@ -1,5 +1,8 @@
-package com.security.springSecurity;
+package com.security.springSecurity.service;
 
+import com.security.springSecurity.UserRepository;
+import com.security.springSecurity.entity.User;
+import com.security.springSecurity.entity.UserDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

@@ -1,7 +1,9 @@
-package com.security.springSecurity;
+package com.security.springSecurity.controller;
 
 import java.util.List;
 
+import com.security.springSecurity.entity.Product;
+import com.security.springSecurity.service.StoreService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

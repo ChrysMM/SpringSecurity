@@ -1,4 +1,4 @@
-package com.security.springSecurity;
+package com.security.springSecurity.entity;
 
 public class Product {
 
